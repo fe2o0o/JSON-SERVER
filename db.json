@@ -83,5 +83,19 @@
         "https://www.theopticshop.co.uk/media/catalog/product/cache/06dc86a2b386e406522485d193946af6/3/4/3445004-3.jpg"
       ]
     }
+  ],
+  "womanCategory":[
+    {
+      "id":1,
+      "title":"GUCCI SUNGLASSES GG0022S 003 57",
+      "shop":"Safair",
+      "price":2500,
+      "img":"https://www.theopticshop.co.uk/media/catalog/product/cache/06dc86a2b386e406522485d193946af6/0/0/0022s003-1.jpg",
+      "images":[
+        "https://www.theopticshop.co.uk/media/catalog/product/cache/06dc86a2b386e406522485d193946af6/0/0/0022s003-1.jpg",
+        "https://www.theopticshop.co.uk/media/catalog/product/cache/06dc86a2b386e406522485d193946af6/0/0/0022s003-2.jpg",
+        "https://www.theopticshop.co.uk/media/catalog/product/cache/06dc86a2b386e406522485d193946af6/0/0/0022s003-3.jpg"
+      ]
+    }
   ]
 }
